@@ -116,6 +116,10 @@
 		{
 			"Name": "PanoramicCapture",
 			"Enabled": false
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
 		}
 	]
 }
