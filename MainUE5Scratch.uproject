@@ -41,7 +41,7 @@
 		},
 		{
 			"Name": "SequencerScripting",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "DatasmithCADImporter",
@@ -119,6 +119,18 @@
 		},
 		{
 			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
 			"Enabled": true
 		}
 	]
